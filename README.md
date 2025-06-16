@@ -12,7 +12,7 @@
 ## 📹 Demo Video:
 [Click to Watch on YouTube](https://youtu.be/evr6VhXaqco)  
 *(Unlisted for privacy — only viewable via link)*
-
+Linkedin (https://www.linkedin.com/posts/rodents-ham-39691036b_codsoft-internship-python-activity-7340364750037372929-xmQB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvLLyIBSw4Jru-TgHhdgm6_M0edHRurS44)
 ---
 
 ## What I Did in This Project:
